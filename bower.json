@@ -1,0 +1,18 @@
+{
+  "name": "saveSvgAsPng",
+  "main": "saveSvgAsPng.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fabrizio5680/saveSvgAsPng",
+  "authors": [
+    "shull@atomicobject.com"
+  ],
+  "description": "saves svg to png client side",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
